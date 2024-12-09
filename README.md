@@ -1,3 +1,35 @@
+# invoices-nextjs-14-dashboard-app-router-tutorial
+
+# 🚀  🚀
+
+https://github.com/coding-to-music/invoices-nextjs-14-dashboard-app-router-tutorial
+
+From / By https://github.com/josiasbudaydeveloper/nextjs-14-dashboard-app-router-tutorial
+
+https://josiasbudaydeveloper-next-14-dashboard-app.vercel.app/dashboard
+
+https://nextjs.org/learn/dashboard-app
+
+https://nextjs.org/learn/react-foundations
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/invoices-nextjs-14-dashboard-app-router-tutorial.git
+git push -u origin main
+```
+
+## Environment variables:
+
+```java
+
+```
+
 # Dashboard App
 A Dashboard App where users can create an account (with their credentials or using an OAuth provider), create customers and assign invoices to them. Invoices will be shown at the Dashboard page as a summary. This project is based on the Next Learn Course, the official Next.js 14 tutorial and created by Vercel.
 
