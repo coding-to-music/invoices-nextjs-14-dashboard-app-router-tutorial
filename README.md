@@ -1,6 +1,6 @@
 # invoices-nextjs-14-dashboard-app-router-tutorial
 
-# 🚀  🚀
+# 🚀 A Dashboard App where users can create an account and manage their customers and invoices. It is based on the Next Learn Course, the official Next.js 14 tutorial 🚀
 
 https://github.com/coding-to-music/invoices-nextjs-14-dashboard-app-router-tutorial
 
